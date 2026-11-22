@@ -6,7 +6,7 @@ import tailwindcss from '@tailwindcss/vite';
 const base = process.env.BASE_PATH || '/';
 
 export default defineConfig({
-	site: process.env.SITE_URL || 'https://fengyiqicoder.github.io',
-	base,
+    site: 'https://lainesita.com.ar',
+    base: '/mauricio/devcode/astro/landing',
 	vite: { plugins: [tailwindcss()] },
 });
