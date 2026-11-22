@@ -27,9 +27,9 @@ export const site = {
 	],
 
 	features: [
-		{ title: '28 divisas, tus tipos de cambio', text: 'Bill in EUR, USD, GBP, JPY and 24 more. Exchange rates are shown at invoice time and frozen on the PDF.' },
-		{ title: 'Recordatorios automáticos', text: 'A friendly nudge 3 days before the due date, a firmer one 7 days after. You write the wording once.' },
-		{ title: 'Facturas recurrentes', text: 'Monthly retainers go out on the 1st without you touching them. Pause or edit any time.' },
+		{ title: '28 divisas, tus tipos de cambio', text: 'Factura en EUR, USD, GBP, JPY y 24 divisas más. Los tipos de cambio se muestran en el momento de emitir la factura y quedan fijados en el PDF.' },
+		{ title: 'Recordatorios automáticos', text: 'Un recordatorio amable 3 días antes de la fecha límite; uno más firme, 7 días después. Redactas el mensaje una sola vez.' },
+		{ title: 'Facturas recurrentes', text: 'Los pagos mensuales recurrentes se procesan el día 1 sin que tengas que intervenir. Puedes pausarlos o modificarlos en cualquier momento.' },
 		{ title: 'Gastos y recibos', text: 'Photograph a receipt from your phone; Harbor files it against the right client or project.' },
 		{ title: 'Exportaciones listas para fines fiscales', text: 'Quarterly and yearly CSV and PDF exports your accountant can open without asking questions.' },
 		{ title: 'Funciona sin conexión', text: 'Draft on a train, send when you have signal. Nothing is lost between the two.' },
