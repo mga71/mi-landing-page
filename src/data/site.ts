@@ -21,9 +21,9 @@ export const site = {
 	},
 
 	how: [
-		{ title: 'Agregar un cliente por vez', text: 'Nombre, dirección, moneda, condiciones de pago. Harbor recuerda el resto, incluido su número de IVA y su idioma preferido.' },
+		{ title: 'Agregar un cliente por vez', text: 'Nombre, dirección, moneda, condiciones de pago. UNOBIT recuerda el resto, incluido su número de IVA y su idioma preferido.' },
 		{ title: 'Redacta la factura', text: 'Indica qué hiciste y el importe. La numeración, los impuestos, las fechas de vencimiento y el archivo PDF se gestionan automáticamente. Duplica lo del mes anterior con un solo clic.' },
-		{ title: 'Recibe tu pago y sigue adelante', text: 'Los clientes realizan el pago mediante tarjeta, transferencia bancaria o PayPal desde la página de la factura. Harbor registra el pago, envía el recibo y actualiza tus totales.' },
+		{ title: 'Recibe tu pago y sigue adelante', text: 'Los clientes realizan el pago mediante tarjeta, transferencia bancaria o PayPal desde la página de la factura. UNOBIT registra el pago, envía el recibo y actualiza tus totales.' },
 	],
 
 	features: [
