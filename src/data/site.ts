@@ -2,10 +2,10 @@
 // The AI features read the rendered page, so keep the copy specific: numbers, limits, names.
 
 export const site = {
-	name: 'Harbor',
-	tagline: 'Invoicing that fits a one-person business.',
+	name: 'UNOBIT',
+	tagline: 'Facturación adaptada a un negocio unipersonal.',
 	description:
-		'Harbor is invoicing software for freelancers and solo consultants: send invoices in your own currency, get paid by card or bank transfer, and see what is owed at a glance.',
+		'UNOBIT es un software de facturación para trabajadores autónomos y consultores independientes: envía facturas en tu propia moneda, recibe pagos mediante tarjeta o transferencia bancaria y consulta de un vistazo los importes pendientes de cobro.',
 	url: 'https://fengyiqicoder.github.io/astro-ai-landing/',
 	nav: [
 		{ label: 'Cómo funciona', href: '#how' },
@@ -55,22 +55,22 @@ export const site = {
 		{ q: 'Can I import clients and old invoices?', a: 'Clients and invoices import from CSV, and directly from FreshBooks, Wave and Invoice Ninja. Imported invoices keep their original numbers and dates.' },
 		{ q: 'Does it handle VAT and sales tax?', a: 'Yes. Set a default rate per client, override it per line, and include VAT numbers on the PDF. EU reverse-charge wording is added automatically when both VAT numbers are present.' },
 		{ q: 'Where is my data stored, and can I leave?', a: 'Data is stored in the EU (Frankfurt) with daily backups. Export everything as CSV and PDF at any time from Settings; deleting the account removes it within 30 days.' },
-		{ q: 'Is there a mobile app?', a: 'Harbor is a web app that works on any phone, with offline drafts. Receipt capture uses the phone camera from the browser; there is nothing to install.' },
+		{ q: '¿Existe una aplicación móvil?', a: 'UNOBIT es una aplicación web que funciona en cualquier teléfono y permite crear borradores sin conexión. Para capturar recibos se utiliza la cámara del teléfono desde el navegador; no es necesario instalar nada.' },
 	],
 
 	contact: {
-		title: 'Start with three clients, free.',
-		text: 'Leave your email and we send a sign-in link. No card, no sales call.',
-		// Point this at your form service (Web3Forms, Formspree, Formspark…). Empty: the form explains it is a demo.
+		title: 'Empieza con tres clientes, gratis.',
+		text: 'Deja tu correo electrónico y te enviaremos un enlace para iniciar sesión. Sin necesidad de tarjeta ni llamadas de venta.',
+		// Apunta esto hacia tu servicio de formularios (Web3Forms, Formspree, Formspark…). Vacío: el formulario indica que se trata de una demostración.
 		endpoint: '',
 	},
 
 	footer: {
-		company: 'Harbor Software OÜ, Tallinn',
+		company: 'UNOBIT Software - Río Cuarto (Córdoba) Argentina',
 		links: [
-			{ label: 'Privacy', href: '#' },
-			{ label: 'Terms', href: '#' },
-			{ label: 'Status', href: '#' },
+			{ label: 'Privacidad', href: '#' },
+			{ label: 'Términos y Condiciones', href: '#' },
+			{ label: 'Estado', href: '#' },
 		],
 	},
 };
