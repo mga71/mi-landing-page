@@ -17,22 +17,22 @@ export const site = {
 
 	hero: {
 		headline: 'Envía la factura. Olvídate de la hoja de cálculo.',
-		sub: 'Harbor convierte un trabajo en una factura pagada en menos de un minuto, en 28 divisas, con recordatorios que se envían mientras duermes. Diseñado para quienes facturan a cinco clientes, no a quinientos.',
+		sub: 'UNOBIT convierte un trabajo en una factura pagada en menos de un minuto, en 28 divisas, con recordatorios que se envían mientras duermes. Diseñado para quienes facturan a cinco clientes, no a quinientos.',
 	},
 
 	how: [
-		{ title: 'Agregar un cliente por vez', text: 'Name, address, currency, payment terms. Harbor remembers the rest, including their VAT number and preferred language.' },
-		{ title: 'Redacta la factura', text: 'Type what you did and the amount. Numbering, taxes, due dates and the PDF are handled for you. Duplicate last month in one click.' },
+		{ title: 'Agregar un cliente por vez', text: 'Nombre, dirección, moneda, condiciones de pago. Harbor recuerda el resto, incluido su número de IVA y su idioma preferido.' },
+		{ title: 'Redacta la factura', text: 'Indica qué hiciste y el importe. La numeración, los impuestos, las fechas de vencimiento y el archivo PDF se gestionan automáticamente. Duplica lo del mes anterior con un solo clic.' },
 		{ title: 'Recibe tu pago y sigue adelante', text: 'Los clientes realizan el pago mediante tarjeta, transferencia bancaria o PayPal desde la página de la factura. Harbor registra el pago, envía el recibo y actualiza tus totales.' },
 	],
 
 	features: [
-		{ title: '28 currencies, your rates', text: 'Bill in EUR, USD, GBP, JPY and 24 more. Exchange rates are shown at invoice time and frozen on the PDF.' },
-		{ title: 'Automatic reminders', text: 'A friendly nudge 3 days before the due date, a firmer one 7 days after. You write the wording once.' },
-		{ title: 'Recurring invoices', text: 'Monthly retainers go out on the 1st without you touching them. Pause or edit any time.' },
-		{ title: 'Expenses and receipts', text: 'Photograph a receipt from your phone; Harbor files it against the right client or project.' },
-		{ title: 'Tax-ready exports', text: 'Quarterly and yearly CSV and PDF exports your accountant can open without asking questions.' },
-		{ title: 'Works offline', text: 'Draft on a train, send when you have signal. Nothing is lost between the two.' },
+		{ title: '28 divisas, tus tipos de cambio', text: 'Bill in EUR, USD, GBP, JPY and 24 more. Exchange rates are shown at invoice time and frozen on the PDF.' },
+		{ title: 'Recordatorios automáticos', text: 'A friendly nudge 3 days before the due date, a firmer one 7 days after. You write the wording once.' },
+		{ title: 'Facturas recurrentes', text: 'Monthly retainers go out on the 1st without you touching them. Pause or edit any time.' },
+		{ title: 'Gastos y recibos', text: 'Photograph a receipt from your phone; Harbor files it against the right client or project.' },
+		{ title: 'Exportaciones listas para fines fiscales', text: 'Quarterly and yearly CSV and PDF exports your accountant can open without asking questions.' },
+		{ title: 'Funciona sin conexión', text: 'Draft on a train, send when you have signal. Nothing is lost between the two.' },
 	],
 
 	pricing: [
