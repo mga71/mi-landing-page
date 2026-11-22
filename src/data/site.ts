@@ -13,11 +13,11 @@ export const site = {
 		{ label: 'Pricing', href: '#pricing' },
 		{ label: 'FAQ', href: '#faq' },
 	],
-	cta: { label: 'Start free', href: '#contact' },
+	cta: { label: 'Comienza Gratis', href: '#contact' },
 
 	hero: {
-		headline: 'Send the invoice. Forget the spreadsheet.',
-		sub: 'Harbor turns a line of work into a paid invoice in under a minute, in 28 currencies, with reminders that go out while you sleep. Built for people who bill five clients, not five hundred.',
+		headline: 'Envía la factura. Olvídate de la hoja de cálculo.',
+		sub: 'Harbor convierte un trabajo en una factura pagada en menos de un minuto, en 28 divisas, con recordatorios que se envían mientras duermes. Diseñado para quienes facturan a cinco clientes, no a quinientos.',
 	},
 
 	how: [
