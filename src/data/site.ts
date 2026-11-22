@@ -36,9 +36,9 @@ export const site = {
 	],
 
 	pricing: [
-		{ name: 'Gratis', price: '$0', period: 'para siempre', line: 'Para tus primeros clientes.', items: ['3 active clients', 'Unlimited invoices', 'Card and bank payments', 'Harbor branding on PDFs'], cta: 'Start free', featured: false },
-		{ name: 'Personal', price: '$9', period: 'por mes', line: 'Para un trabajo como profesional independiente.', items: ['Unlimited clients', 'Automatic reminders', 'Recurring invoices', 'Your logo, no Harbor branding', 'Expense tracking'], cta: 'Try Solo free for 30 days', featured: true },
-		{ name: 'Estudio', price: '$24', period: 'por mes', line: 'Para dos a cinco personas.', items: ['Everything in Solo', 'Up to 5 team members', 'Approval before sending', 'Shared client list', 'Priority support'], cta: 'Talk to us', featured: false },
+		{ name: 'Gratis', price: '$0', period: 'para siempre', line: 'Para tus primeros clientes.', items: ['3 clientes activos', 'Facturas ilimitadas', 'Pagos con tarjeta y bancarios', 'Marca UNOBIT en archivos PDF'], cta: 'Comienza gratis', featured: false },
+		{ name: 'Personal', price: '$9', period: 'por mes', line: 'Para un trabajo como profesional independiente.', items: ['Clientes ilimitados', 'Recordatorios automáticos', 'Facturas recurrentes', 'Tu logotipo, sin la marca UNOBIT', 'Seguimiento de gastos'], cta: 'Prueba Personal gratis durante 30 días', featured: true },
+		{ name: 'Estudio', price: '$24', period: 'por mes', line: 'Para dos a cinco personas.', items: ['Todo lo de Personal', 'Hasta 5 miembros del equipo', 'Aprobación antes del envío', 'Lista de clientes compartida', 'Soporte prioritario'], cta: 'Habla con nosotros', featured: false },
 	],
 
 	testimonials: [
@@ -48,13 +48,13 @@ export const site = {
 	],
 
 	faq: [
-		{ q: '¿Existe un plan gratuito?', a: 'Yes. The Free plan is free forever: up to 3 active clients, unlimited invoices, card and bank payments. PDFs carry a small Harbor line in the footer.' },
-		{ q: '¿Cuánto cuesta UNOBIT una vez que crezco?', a: 'Solo is $9 a month for unlimited clients, reminders, recurring invoices and expenses. Studio is $24 a month for teams of up to five. Both include a 30-day free trial; no card needed to start.' },
-		{ q: '¿Qué métodos de pago pueden utilizar mis clientes?', a: 'Card (Visa, Mastercard, Amex), bank transfer with the details printed on the invoice, and PayPal. Card payments cost 2.9% + $0.30; bank transfer and PayPal cost nothing extra from Harbor.' },
-		{ q: '¿Qué monedas son compatibles?', a: '28 currencies, including EUR, USD, GBP, CAD, AUD, JPY, CHF, SEK, NOK, DKK, PLN, CZK, INR, SGD, HKD, NZD, BRL and MXN. You can bill each client in a different one.' },
-		{ q: '¿Puedo importar clientes y facturas antiguas?', a: 'Clients and invoices import from CSV, and directly from FreshBooks, Wave and Invoice Ninja. Imported invoices keep their original numbers and dates.' },
-		{ q: '¿Gestiona el IVA y el impuesto sobre las ventas?', a: 'Yes. Set a default rate per client, override it per line, and include VAT numbers on the PDF. EU reverse-charge wording is added automatically when both VAT numbers are present.' },
-		{ q: '¿Dónde se almacenan mis datos y puedo dejarlo?', a: 'Data is stored in the EU (Frankfurt) with daily backups. Export everything as CSV and PDF at any time from Settings; deleting the account removes it within 30 days.' },
+		{ q: '¿Existe un plan gratuito?', a: 'Sí. El plan gratuito es gratis para siempre: hasta 3 clientes activos, facturas ilimitadas y pagos mediante tarjeta o transferencia bancaria. Los archivos PDF incluyen una pequeña mención a UNOBIT en el pie de página.' },
+		{ q: '¿Cuánto cuesta UNOBIT una vez que crezco?', a: 'Personal cuesta 9 $ al mes e incluye clientes ilimitados, recordatorios, facturas recurrentes y gastos. Estudio cuesta 24 $ al mes y está pensado para equipos de hasta cinco personas. Ambas opciones incluyen una prueba gratuita de 30 días; no es necesario introducir una tarjeta para empezar.' },
+		{ q: '¿Qué métodos de pago pueden utilizar mis clientes?', a: 'Tarjeta (Visa, Mastercard, Amex), transferencia bancaria (con los datos que aparecen en la factura) y PayPal. Los pagos con tarjeta conllevan un coste del 2,9 % + 0,30 $; las transferencias bancarias y los pagos mediante PayPal no suponen ningún coste adicional por parte de UNOBIT.' },
+		{ q: '¿Qué monedas son compatibles?', a: '28 divisas, incluidas EUR, USD, GBP, CAD, AUD, JPY, CHF, SEK, NOK, DKK, PLN, CZK, INR, SGD, HKD, NZD, BRL y MXN. Puedes facturar a cada cliente en una moneda distinta.' },
+		{ q: '¿Puedo importar clientes y facturas antiguas?', a: 'Es posible importar clientes y facturas desde archivos CSV, así como directamente desde FreshBooks, Wave e Invoice Ninja. Las facturas importadas conservan sus números y fechas originales.' },
+		{ q: '¿Gestiona el IVA y el impuesto sobre las ventas?', a: 'Sí. Establece una tarifa predeterminada por cliente, modifícala a nivel de línea e incluye los números de IVA en el PDF. La mención sobre la inversión del sujeto pasivo (aplicable en la UE) se añade automáticamente cuando figuran ambos números de IVA.' },
+		{ q: '¿Dónde se almacenan mis datos y puedo dejarlo?', a: 'Los datos se almacenan en la UE (Fráncfort) y cuentan con copias de seguridad diarias. Puedes exportar toda la información en formato CSV o PDF en cualquier momento desde la sección de Configuración; si eliminas tu cuenta, los datos se borrarán en un plazo de 30 días.' },
 		{ q: '¿Existe una aplicación móvil?', a: 'UNOBIT es una aplicación web que funciona en cualquier teléfono y permite crear borradores sin conexión. Para capturar recibos se utiliza la cámara del teléfono desde el navegador; no es necesario instalar nada.' },
 	],
 
