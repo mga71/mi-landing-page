@@ -9,8 +9,8 @@ export const site = {
 	url: 'https://fengyiqicoder.github.io/astro-ai-landing/',
 	nav: [
 		{ label: 'Cómo funciona', href: '#how' },
-		{ label: 'Features', href: '#features' },
-		{ label: 'Pricing', href: '#pricing' },
+		{ label: 'Características', href: '#features' },
+		{ label: 'Precios', href: '#pricing' },
 		{ label: 'FAQ', href: '#faq' },
 	],
 	cta: { label: 'Comienza Gratis', href: '#contact' },
@@ -21,9 +21,9 @@ export const site = {
 	},
 
 	how: [
-		{ title: 'Add a client once', text: 'Name, address, currency, payment terms. Harbor remembers the rest, including their VAT number and preferred language.' },
-		{ title: 'Write the invoice', text: 'Type what you did and the amount. Numbering, taxes, due dates and the PDF are handled for you. Duplicate last month in one click.' },
-		{ title: 'Get paid and move on', text: 'Clients pay by card, bank transfer or PayPal from the invoice page. Harbor marks it paid, sends the receipt and updates your totals.' },
+		{ title: 'Agregar un cliente por vez', text: 'Name, address, currency, payment terms. Harbor remembers the rest, including their VAT number and preferred language.' },
+		{ title: 'Redacta la factura', text: 'Type what you did and the amount. Numbering, taxes, due dates and the PDF are handled for you. Duplicate last month in one click.' },
+		{ title: 'Recibe tu pago y sigue adelante', text: 'Los clientes realizan el pago mediante tarjeta, transferencia bancaria o PayPal desde la página de la factura. Harbor registra el pago, envía el recibo y actualiza tus totales.' },
 	],
 
 	features: [
